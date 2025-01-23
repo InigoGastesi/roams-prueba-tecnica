@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Depends, Body
+from fastapi import FastAPI
 from routers.user import router as user_router
 from routers.gpt import router as gpt_router
 app = FastAPI(

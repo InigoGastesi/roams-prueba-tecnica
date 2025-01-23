@@ -1,4 +1,4 @@
-from fastapi import HTTPException, Body, APIRouter, Depends
+from fastapi import HTTPException, APIRouter, Depends
 from db.connection import conn
 from middlewares.auth import verify_token
 from typing import List

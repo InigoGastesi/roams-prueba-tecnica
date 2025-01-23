@@ -1,4 +1,4 @@
-from typing import Optional, List
+from typing import Optional
 from pydantic import BaseModel, Field
 class GenerateRequest(BaseModel):
     prompt: str = Field(..., example="Había una vez en un reino muy lejano")
