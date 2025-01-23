@@ -10,7 +10,7 @@ class GenerateResponse(BaseModel):
     generated_text: str
     prompt: str
     used_parameters: dict
-    
+
 
 class HistoryItem(BaseModel):
     prompt: str
