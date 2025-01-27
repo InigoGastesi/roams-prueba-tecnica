@@ -18,7 +18,7 @@ API que genera texto usando un modelo preentrenado de HuggingFace.
 1. Clona el repositorio:
 
     ```sh
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/InigoGastesi/roams-prueba-tecnica.git
     cd roams-prueba-tecnica
     ```
 
@@ -41,7 +41,7 @@ API que genera texto usando un modelo preentrenado de HuggingFace.
 1. Clona el repositorio:
 
     ```sh
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/InigoGastesi/roams-prueba-tecnica.git
     cd roams-prueba-tecnica
     ```
 
@@ -70,7 +70,7 @@ API que genera texto usando un modelo preentrenado de HuggingFace.
 1. Clona el repositorio:
 
     ```sh
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/InigoGastesi/roams-prueba-tecnica.git
     cd roams-prueba-tecnica
     ```
 
